@@ -6,7 +6,7 @@ const fs = require('fs');
 // mongoose
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
-const connectionString = 'mongodb+srv://fbw5:123456abc@cluster0.mvghe.mongodb.net/test1?retryWrites=true&w=majority';
+const connectionString = '';
 
 // ---------------------------------------- Schemas ----------------------------------------
 // Schema for constructing users
