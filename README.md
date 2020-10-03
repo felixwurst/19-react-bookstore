@@ -1,4 +1,4 @@
-# React-Setup for a Bookstore
+# React Setup for a Bookstore
 
 ### Description:
 
